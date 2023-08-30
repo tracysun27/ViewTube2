@@ -1,1 +1,3 @@
 # ViewTube2
+
+Optimized version of ViewTube project (2023). Added neural network and random forest models for performance comparison and custom iterator to improve loading speed to fit dataset with large number of features. 
